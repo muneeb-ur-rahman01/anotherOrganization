@@ -57,7 +57,7 @@ function MainContent() {
                 src={osama}
                 alt=""
               />
-              <h3 className="mt-5 text-xl font-bold">Osama</h3>
+              <h3 className="mt-5 text-xl font-bold">Usama Bin Zahid</h3>
               <p className="text-gray-600">Content Creator  | Operational Team Member</p>
             </div>
 
@@ -67,7 +67,7 @@ function MainContent() {
                 src={Rizwan}
                 alt=""
               />
-              <h3 className="mt-5 text-xl font-bold">Rizwan</h3>
+              <h3 className="mt-5 text-xl font-bold">Muhammad Rizwan</h3>
               <p className="text-gray-600">Operation Team Member</p>
             </div>
 
