@@ -125,7 +125,7 @@ const QuickDonate = () => {
 
       {/* Floating WhatsApp Button */}
       <a
-        href="https://wa.me/03710137556" 
+        href="https://wa.me/923710137556" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-24 right-6 bg-green-500 text-white p-4 rounded-full shadow-xl hover:bg-green-600 transition-colors z-50"
