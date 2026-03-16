@@ -16,7 +16,7 @@ function Hero() {
             <div className="grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-12 lg:gap-x-8">
                 <div>
                     <div className="text-center lg:text-left">
-                        <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj">
+                       <h1 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl md:text-5xl lg:text-6xl font-pj">
                           Hopefelt Foundation A Public Health Society
                         </h1>
 
