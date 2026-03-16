@@ -11,13 +11,13 @@ function Contact() {
       <div className="w-full bg-[#4da6ff] py-6 px-6 shadow-lg">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
           
-          <div className="text-white text-3xl font-[Cambria] font-bold tracking-wide">
+          <div className="text-white text-1xl font-[Cambria] font-bold tracking-wide">
             HOPEFELT FOUNDATION
           </div>
 
           <div className="md:block space-x-4">
             <Link to="/">
-              <button className="bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] hover:from-[#4da6ff] hover:to-[#5a724a] text-white font-semibold py-2 px-8 rounded-full shadow-md hover:shadow-lg transition-all duration-300 transform hover:scale-105 border-2 border-white">
+              <button className="bg-[#1F7EC4] text-white font-semibold py-2 px-8 rounded-full shadow-md hover:shadow-lg transition-all duration-300 transform hover:scale-105 border-2 border-white">
                 Home
               </button>
             </Link>

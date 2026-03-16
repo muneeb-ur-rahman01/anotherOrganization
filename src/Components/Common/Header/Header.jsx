@@ -17,7 +17,7 @@ function Header() {
                 alt="Logo"
                 className="w-12 h-12 rounded-full mr-4"
               />
-              <span className="text-white text-xl sm:text-1xl font-semibold">
+              <span className="text-white text-2xl sm:text-1xl font-semibold">
                 HOPEFELT FOUNDATION | A PUBLIC HEALTH SOCIETY 
               </span>
             </div>
@@ -73,7 +73,7 @@ function Header() {
             <div className={`${menuOpen ? "mt-4 md:mt-0" : "hidden"} md:block space-x-3`}>
               
                <Link to="https://forms.gle/31qB1FEnQr3zbswq5">
-                <button className="bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] text-white font-semibold py-2 px-8 rounded-full shadow-md hover:shadow-lg transition-all duration-300 transform hover:scale-105 border-2 border-white">
+                <button className="bg-[#1F7EC4] text-white font-semibold py-2 px-8 rounded-full shadow-md hover:shadow-lg transition-all duration-300 transform hover:scale-105 border-2 border-white">
                   Join Us
                 </button>
               </Link>
@@ -83,7 +83,7 @@ function Header() {
       </div>
 
       <div className="overflow-hidden h-16 bg-white flex justify-center items-center">
-        <div className="whitespace-nowrap animate-slideRight text-xl font-bold text-gray-800 h-full w-full flex items-center bg-[#89cff0]">
+        <div className="whitespace-nowrap animate-slideRight text-1xl font-bold text-gray-800 h-full w-full flex items-center bg-[#1F7EC4]">
           <marquee className="font-bold text-2xl text-white">
             WELCOME TO HOPEFELT FOUNDATION
           </marquee>

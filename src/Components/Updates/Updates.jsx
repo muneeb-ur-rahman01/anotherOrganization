@@ -43,7 +43,7 @@ const Updates = () => {
           {/* Navbar */}
           <header className="w-full bg-[#4da6ff] shadow-md mb-12 rounded-xl">
             <div className="max-w-6xl mx-auto flex justify-between items-center py-4 px-4 sm:px-6 md:px-6">
-              <div className="text-white text-2xl sm:text-3xl md:text-3xl font-[Cambria] font-bold tracking-wide truncate max-w-[70%]">
+              <div className="text-white text-lg sm:text-xl md:text-2xl font-[Cambria] font-bold tracking-wide truncate max-w-[70%]">
                 HOPEFELT FOUNDATION
               </div>
               <div className="hidden md:flex space-x-6">
