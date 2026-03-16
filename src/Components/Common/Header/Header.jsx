@@ -17,7 +17,7 @@ function Header() {
                 alt="Logo"
                 className="w-12 h-12 rounded-full mr-4"
               />
-              <span className="text-white text-2xl sm:text-1xl font-semibold">
+              <span className="text-white text-1xl sm:text-1xl font-semibold">
                 HOPEFELT FOUNDATION | A PUBLIC HEALTH SOCIETY 
               </span>
             </div>
