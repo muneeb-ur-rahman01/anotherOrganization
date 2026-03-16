@@ -7,7 +7,7 @@ function About() {
     <div className="w-full min-h-screen overflow-x-hidden">
 
       {/* Header */}
-      <div className="w-full bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] py-4 px-4 sm:px-6 shadow-lg">
+      <div className="w-full bg-[#4da6ff] py-4 px-4 sm:px-6 shadow-lg">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           
           <div className="text-white text-xl sm:text-2xl md:text-3xl font-[Cambria] font-bold tracking-wide">
@@ -48,7 +48,7 @@ function About() {
               </h2>
 
               <h1 className="text-gray-900 text-2xl sm:text-3xl font-semibold mb-4">
-                About Our Mission
+                ABOUT US
               </h1>
 
               <p className="leading-relaxed text-sm sm:text-base">

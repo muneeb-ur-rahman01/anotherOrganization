@@ -7,7 +7,8 @@ function Footer() {
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div class="grid grid-cols-2 md:col-span-3 lg:grid-cols-6 gap-y-16 gap-x-12">
                 <div class="col-span-2 md:col-span-3 lg:col-span-2 lg:pr-8">
-                    <img class="w-auto h-9" src={hopefeltLogo} alt="Logo of Organization" /> <span>HOPEFELT FOUNDATION</span>
+                    {/* <img class="w-auto h-9" src={hopefeltLogo} alt="Logo of Organization" />  */}
+                    <span>HOPEFELT FOUNDATION</span>
 
                     <p class="text-base leading-relaxed text-gray-600 mt-7">Hopefelt Foundation is a nonprofit public health organization working to improve the health and well-being of vulnerable communities in Karachi through accessible healthcare, medical screenings, and community outreach programs..</p>
 
@@ -66,15 +67,15 @@ function Footer() {
                     </li>
 
                     <li>
-                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Features </a>
+                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Updates </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Works </a>
+                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Donation </a>
                     </li>
 
                     <li>
-                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Career </a>
+                        <a href="#" title="" class="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Contact </a>
                     </li>
                 </ul>
             </div>

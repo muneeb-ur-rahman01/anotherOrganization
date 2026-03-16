@@ -17,12 +17,12 @@ function Hero() {
                 <div>
                     <div className="text-center lg:text-left">
                         <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj">
-                          HOPEFELT FOUNDATION | Non-Government Public Health Society
+                          Hopefelt Foundation A Public Health Society
                         </h1>
 
                         {/* JUSTIFIED TEXT */}
                         <p className="mt-2 text-lg text-gray-600 sm:mt-8 font-inter text-justify">
-                        Hopefelt Foundation is a nonprofit public health society working to improve the health & well-being of vulnerable communities in Karachi <br/>
+                        Hopefelt Foundation is a non profit public health society working to improve the health & well-being of vulnerable communities in Karachi <br/>
                         Led by a team of skilled Public health and medical professionals, along with experienced non-medical experts. The foundation provides accessible health care services through community outreach, hospital visits, free medical screening, health check-ups, awareness camps, and health education initiatives focused on disease prevention, maternal and child health, family planning initiatives, malnutrition and hygiene, aiming to empower communities to lead healthier lives.
                         </p>
                     </div>                

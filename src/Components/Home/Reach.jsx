@@ -31,7 +31,7 @@ function Reach() {
       <div className="max-w-6xl px-4 mx-auto sm:px-6 lg:px-8">
         <div className="max-w-2xl mx-auto text-center mb-10">
           <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
-            NUMBERS TELLS OUR STORY
+            OUR IMPACTS
           </h2>
         </div>
 

@@ -30,7 +30,7 @@ const QuickDonate = () => {
     <div className="min-h-screen bg-gray-50 font-sans text-gray-800 flex flex-col items-center relative">
 
       {/* Navigation / Header */}
-      <header className="w-full bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] shadow-md">
+      <header className="w-full bg-[#4da6ff] shadow-md">
         <div className="max-w-6xl mx-auto flex justify-between items-center py-4 px-6">
           <div className="text-white text-3xl font-[Cambria] font-bold tracking-wide">
             HOPEFELT FOUNDATION

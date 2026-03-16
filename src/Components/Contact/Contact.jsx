@@ -8,7 +8,7 @@ function Contact() {
     <div className="w-full overflow-hidden">
 
       {/* Header */}
-      <div className="w-full bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] py-6 px-6 shadow-lg">
+      <div className="w-full bg-[#4da6ff] py-6 px-6 shadow-lg">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
           
           <div className="text-white text-3xl font-[Cambria] font-bold tracking-wide">

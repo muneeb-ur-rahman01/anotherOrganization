@@ -41,7 +41,7 @@ const Updates = () => {
         <div className="max-w-7xl mx-auto">
 
           {/* Navbar */}
-          <header className="w-full bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] shadow-md mb-12 rounded-xl">
+          <header className="w-full bg-[#4da6ff] shadow-md mb-12 rounded-xl">
             <div className="max-w-6xl mx-auto flex justify-between items-center py-4 px-4 sm:px-6 md:px-6">
               <div className="text-white text-2xl sm:text-3xl md:text-3xl font-[Cambria] font-bold tracking-wide truncate max-w-[70%]">
                 HOPEFELT FOUNDATION
@@ -68,7 +68,7 @@ const Updates = () => {
           {/* Page Header */}
           <header className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
             <div className="max-w-xl">
-              <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
+              <h1 className="text-4xl md:text-3xl font-bold tracking-tight text-gray-900 mb-4">
                 MEDICAL CAMPS
               </h1>
             </div>

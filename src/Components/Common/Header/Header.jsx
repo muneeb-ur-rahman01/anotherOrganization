@@ -9,7 +9,7 @@ function Header() {
   return (
     <>
       <div className="h-auto flex flex-col">
-        <div className="h-[90px] bg-gradient-to-r from-[#4da6ff] to-[#7a8c74] flex justify-center items-center">
+        <div className="h-[90px] bg-[#4da6ff] flex justify-center items-center">
           <div className="flex items-center justify-center max-w-6xl px-4 w-full relative">
             <div className="flex items-center">
               <img
@@ -17,8 +17,8 @@ function Header() {
                 alt="Logo"
                 className="w-12 h-12 rounded-full mr-4"
               />
-              <span className="text-white text-xl sm:text-2xl font-semibold">
-                HOPEFELT FOUNDATION | FOR EVERY HUMAN 
+              <span className="text-white text-xl sm:text-1xl font-semibold">
+                HOPEFELT FOUNDATION | A PUBLIC HEALTH SOCIETY 
               </span>
             </div>
             <div className="absolute right-4 md:hidden">
@@ -84,7 +84,7 @@ function Header() {
 
       <div className="overflow-hidden h-16 bg-white flex justify-center items-center">
         <div className="whitespace-nowrap animate-slideRight text-xl font-bold text-gray-800 h-full w-full flex items-center bg-[#89cff0]">
-          <marquee className="font-bold text-3xl text-white">
+          <marquee className="font-bold text-2xl text-white">
             WELCOME TO HOPEFELT FOUNDATION
           </marquee>
         </div>
