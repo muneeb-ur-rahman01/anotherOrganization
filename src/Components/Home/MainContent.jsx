@@ -13,7 +13,7 @@ function MainContent() {
 
           {/* Heading */}
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900">HEADING FOUNDING DIRECTORS</h2>
+            <h2 className="text-4xl font-bold text-gray-900">EXECUTIVE DIRECTORS</h2>
           </div>
 
           {/* Founder Level */}
