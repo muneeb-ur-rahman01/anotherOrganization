@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/anotherOrganization/"
+  base: VITE_BASE_PATH.env.process || "/anotherOrganization/"
 })
